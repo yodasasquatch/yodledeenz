@@ -1,38 +1,26 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+
+name: Incident Report Template
+about: Incident Report ticket
+title: "INCIDENT (XX Jan 2021): Some short description about the incident"
+labels: "incident"
+assignees: ""
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- Do not leave any section empty. -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+# 1. Executive Summary
+<!--
+    Executive Summary should contain about up to 3 paragraphs to clarify what
+    happened. Bear in mind that this is targeted for Business Users as well,
+    meaning technical details should be kept minimal.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+    This is a REQUIRED field.
+-->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!--EXAMPLE-->
+Redacted
+<!--EXAMPLE END-->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+# 2. Business Impact
+...
