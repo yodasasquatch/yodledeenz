@@ -1,8 +1,8 @@
 ---
 name: Report Improve
-about: new and improved
+description: new and improved
 title: "[Bug]: "
-labels:
+labels: "[Bug]"
 assignees: yodaodrive
 ---
 
