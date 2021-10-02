@@ -1,4 +1,4 @@
-
+---
 name: Incident Report Template
 about: Incident Report ticket
 title: "INCIDENT (XX Jan 2021): Some short description about the incident"
